@@ -33,3 +33,11 @@ Vamos a las propiedades del anuncio y procedemos a clickear en "All devices" par
 El sitio nos muestra la libreria de imagenes desde donde podemos seleccionar la imagen deseada para reemplazar el anuncio
 
 ![Elegir la imagen que reemplaza el anuncio](img05.png)
+
+Una vez agregada la imagen, se debe indicar la url de destino del anuncio en el campo 'Ad url'. La direccione siempre debe empezar con `https:// ` o `http:// `, en caso contrario se producira un error al hacer click en el anuncio.
+
+![Elegir la imagen que reemplaza el anuncio](img10.png)
+
+Es importante verificar que el atributo 'Open url in new window' se encuentre tildado a fín de que el anuncio se abra en otr ventana y no se interrumpa la navegacion del sitio.
+
+Adicionalmente se puede optar por esconder el anuncio en determinados tipos de dispositivos (Escritorio, Tablet, Telefono) tildando las opciones 'Hide on ...'
